@@ -1,0 +1,8 @@
+{
+  "name": "Stock Analysis & Strategy Dashboard",
+  "description": "Personalized stock market dashboard with historical data, technical indicators, strategy analysis, real-time alerts, and Google Drive export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
